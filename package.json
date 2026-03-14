@@ -1,0 +1,30 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "A Complex MERN Stack project for learning from chai code youtube channel.",
+  "keywords": [
+    "backend",
+    "javaScript",
+    "chai"
+  ],
+  "homepage": "https://github.com/rahul-rathore-sd/chai-backend#readme",
+  "bugs": {
+    "url": "https://github.com/rahul-rathore-sd/chai-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahul-rathore-sd/chai-backend.git"
+  },
+  "license": "ISC",
+  "author": "rhaul rathore",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14",
+    "prettier": "^3.8.1"
+  }
+}
